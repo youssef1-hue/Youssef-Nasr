@@ -37,13 +37,12 @@ and preparing for junior backend and data-oriented roles.
 <h2>🛠 Technical Skills</h2>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/icon/master/icons/git/git-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
 </p>
 
 <h2>📌 Currently Learning</h2>
@@ -55,10 +54,3 @@ and preparing for junior backend and data-oriented roles.
   <li>Backend performance fundamentals</li>
 </ul>
 
-<h2>📊 GitHub Statistics</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YoussefNasr&show_icons=true&count_private=true" />
-
-<p>
-<img src="https://hits.dwyl.com/YoussefNasr/YoussefNasr.svg?style=flat-square" />
-</p>
